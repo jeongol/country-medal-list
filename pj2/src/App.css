@@ -63,3 +63,24 @@
   gap: 20px;
 }
 
+.table-warrppe {
+  width: 100%;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  width: 100px;
+}
+
+.delete-btn {
+  color: red;
+  cursor: pointer;
+}
